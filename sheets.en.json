@@ -11,7 +11,7 @@
   {
     "id": "awning",
     "title": "Awning Control",
-    "icon": "✏️",
+    "icon": "⛱️",
     "label": "Edit",
     "text": "Open sheets.en.json and add items to the array. Each sheet accepts a title, text (\n\n for new paragraphs), and an image URL.",
     "image": "images/placeholder-2.jpg",
