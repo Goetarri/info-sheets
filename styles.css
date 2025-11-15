@@ -84,7 +84,8 @@ body {
   padding: 14px 16px;
   background: var(--card);
   border-radius: 14px;
-  border: 1px solid #1f2937;
+  /*border: 1px solid #1f2937;*/
+  border: none;
   line-height: 1.6;
   font-size: 16px;
   color: var(--fg);
