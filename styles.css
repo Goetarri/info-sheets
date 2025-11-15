@@ -1,10 +1,10 @@
 /* Mobile-first styles for Info Sheets */
 :root {
-  --bg: #0f172a;
-  --fg: #e2e8f0;
+  --bg: #ffffff;
+  --fg: #000000;
   --muted: #94a3b8;
   --accent: #38bdf8;
-  --card: #111827;
+  --card: #ffffff;
   --btn: #1f2937;
 }
 
@@ -35,6 +35,8 @@ body {
   font-weight: 600;
   font-size: 18px;
   letter-spacing: 0.2px;
+  /* Cambio añadido: Color de fuente blanco */
+  color: #ffffff;
 }
 
 .lang-wrap {
@@ -50,6 +52,7 @@ body {
   padding: 8px 10px;
   border-radius: 10px;
   font-size: 14px;
+  color: #ffffff;
 }
 
 .app-main {
@@ -86,8 +89,18 @@ body {
   font-size: 16px;
   color: var(--fg);
 }
-.sheet-text p { margin: 0 0 0.8em; }
-.sheet-text p:last-child { margin-bottom: 0; }
+.sheet-text p {
+  margin: 0 0 0.8em;
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+}
+.sheet-text p:last-child {
+  margin-bottom: 0;
+  text-align-last: left;
+}
 
 .toolbar {
   position: fixed;
