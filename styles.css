@@ -94,6 +94,7 @@ body {
   margin: 0 0 0.8em;
   text-align: justify;
   text-justify: inter-word;
+  word-break: keep-all;
   hyphens: auto;
   -webkit-hyphens: auto;
   -ms-hyphens: auto;
