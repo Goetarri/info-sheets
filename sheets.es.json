@@ -22,7 +22,7 @@
     "title": "Instrucciones Lavadora",
     "icon": "images/washing.png",
     "label": "Lavadora",
-    "text": "A continuación se indican las instrucciones para poner la lavadora.",
+    "text": "A continuación se detallan las instrucciones para usar la lavadora:\n\n1. Vacíe los bolsillos.\n\n2. Coloque la prenda dentro del tambor.\n\n3. Añada la pastilla de detergente dentro del tambor.\n\n4. Cierre la puerta.\n\n5. Seleccione el programa girando el selector. El programa más común es "Sintéticos".\n\n6. Seleccione la temperatura y el tiempo. Al pulsar el botón "Rápido/Perfecto" se reduce el tiempo de lavado.\n\n7. Pulse el botón "⏯" para iniciar la lavadora.\n\n8. Una vez finalizado el lavado, gire el selector a la posición superior (parada).\n\n9. Abra la puerta y saque la ropa.",
     "image": "images/washing.png",
     "alt": "Secuencia de instrucciones lavadora"
   }
