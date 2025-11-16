@@ -22,7 +22,7 @@
     "title": "Washing Machine Instructions",
     "icon": "images/washing.png",
     "label": "Washing Machine",
-    "text": "Below are the instructions to use the washing machine:\n\n1. Empty pockets.\n2.Place clother inside the drum.\n\n3. Add detergent pill inside the drum.\n\n4. Close the door\n\n5. Select the program by turning the knob. Most common program is 'Sinteticos (synthetics)'.\n\n6. Select temperature and time. Pressing the 'Speed/Perfect' button reduces washing time.\n\n7. Press '⏯' button to start the washer.\n\n8. Once washing is finished, turn the knob back to the top (stop) position.\n\n9. Open the door and take out the clothes.",
+    "text": "Below are the instructions to use the washing machine:\n\n1. Empty pockets.\n\n2.Place clother inside the drum.\n\n3. Add detergent pill inside the drum.\n\n4. Close the door\n\n5. Select the program by turning the knob. Most common program is 'Sinteticos (synthetics)'.\n\n6. Select temperature and time. Pressing the 'Speed/Perfect' button reduces washing time.\n\n7. Press '⏯' button to start the washer.\n\n8. Once washing is finished, turn the knob back to the top (stop) position.\n\n9. Open the door and take out the clothes.",
     "image": "images/wash_seq.png",
     "alt": "Washing machine instruction sequence"
   }
